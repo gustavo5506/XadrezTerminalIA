@@ -1,0 +1,13 @@
+C:\Users\gusta\Desktop\ChessAI\src\Main.java
+C:\Users\gusta\Desktop\ChessAI\src\Simulator.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\AlphaBeta.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\AlphaBetaB.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\AlphaBetaC.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\AlphaBetaC2.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\BetterSquares.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\MoveGenerator.java
+C:\Users\gusta\Desktop\ChessAI\src\ai\SearchEngine.java
+C:\Users\gusta\Desktop\ChessAI\src\Jogo\Board.java
+C:\Users\gusta\Desktop\ChessAI\src\Jogo\Move.java
+C:\Users\gusta\Desktop\ChessAI\src\Jogo\Piece.java
+C:\Users\gusta\Desktop\ChessAI\src\UI\ConsoleUI.java
